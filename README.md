@@ -8,7 +8,8 @@ Hi, I'm RODNEY, An IT Professional</a>☺</h1>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/RODNEYBB1/osTICKET-LIFECYCLE-EXAMPLES.git)
 
 
-- <b>Microsoft Azure</b> - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+- <b>Microsoft Azure</b> -
+- [INSTALLING ACTIVE DIRECTORY IN AZURE :]
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RODNEYBB1/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines.git)
 
   
