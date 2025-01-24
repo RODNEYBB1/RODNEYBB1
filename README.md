@@ -4,7 +4,7 @@ Hi, I'm RODNEY, An IT Professional</a>☺</h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/RODNEYBB1/osticket-prereqs.git)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/RODNEYBB1/osTicket-Post-Install-Configurations.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 
