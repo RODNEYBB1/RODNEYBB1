@@ -9,7 +9,7 @@ Hi, I'm RODNEY, An IT Professional</a>☺</h1>
 
 
 - <b>Microsoft Azure</b> - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RODNEYBB1/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines.git)
 
   
 
